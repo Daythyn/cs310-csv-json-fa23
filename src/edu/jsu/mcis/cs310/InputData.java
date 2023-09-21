@@ -56,6 +56,10 @@ public class InputData {
         this.csvString = csvString;
         this.jsonString = jsonString;
         
+        //System.out.println(csvString);
+        //System.out.println("\n\n\n");
+        //System.out.println(jsonString);
+        
     }
 
     public String getCsvString() {
